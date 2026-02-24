@@ -1,0 +1,5 @@
+Python
+OpenCV
+Ultralytics YOLOv8
+Streamlit
+numpy
